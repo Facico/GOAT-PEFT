@@ -1,9 +1,8 @@
 # GOAT: a new LoRA Mixture-of-Experts Framework🚀 
 
 <div align="center">
-
 <p align="center" style="font-size: larger;">
-  <strong> [ICML 2025] </strong> <a href="https://arxiv.org/pdf/2502.16894"> Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment</a>
+<strong> [ICML 2025] </strong> <a href="https://arxiv.org/pdf/2502.16894"> Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment</a>
 </p>
 
 ![main](./img/main.png)
