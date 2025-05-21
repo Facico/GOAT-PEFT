@@ -2,7 +2,7 @@
 
 <div align="center">
 <p align="center" style="font-size: larger;">
-<strong> [ICML 2025] </strong> <a href="https://arxiv.org/pdf/2502.16894"> Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment</a>
+<strong> [ICML 2025] </strong> <a href="https://arxiv.org/pdf/2502.16894v3"> Make LoRA Great Again: Boosting LoRA with Adaptive Singular Values and Mixture-of-Experts Optimization Alignment</a>
 </p>
 
 ![main](./img/main.png)
@@ -10,7 +10,7 @@
 
 Official implementation of **GOAT**: a novel framework that boosts Low-Rank Adaptation (LoRA) for large-scale model fine-tuning by integrating adaptive singular-value priors and theoretical optimization alignment within a Mixture-of-Experts (MoE) architecture.
 
-Our Paper has been accepted by ICML2025. [arXiv](https://arxiv.org/pdf/2502.16894)
+Our Paper has been accepted by ICML2025.
 
 ## 🚀Highlights
 
