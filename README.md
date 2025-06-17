@@ -35,7 +35,7 @@ Follow the steps below to set up the environment and install the necessary depen
    Make sure you have `pip` installed, then run:
    ```bash
    pip install -r requirements.txt
-   pip install flash-attn
+   pip install flash-attn==2.7.3
    pip install human_eval
    ```
 
