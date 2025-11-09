@@ -70,7 +70,7 @@ Most of the data is built into the `dataset/` directory. CV-related data needs t
   ```
 
 - **Commonsense QA (CR)**:  
-  Fine-tune on CR tasks, such as the GLUE benchmark:  
+  Fine-tune on CR tasks:  
   ```bash
   bash cr.sh
   ```
