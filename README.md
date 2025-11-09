@@ -69,6 +69,11 @@ Most of the data is built into the `dataset/` directory. CV-related data needs t
   bash glue.sh
   ```
 
+- **Commonsense QA (CR)**:  
+  Fine-tune on CR tasks, such as the GLUE benchmark:  
+  ```bash
+  bash cr.sh
+  ```
 ---
 
 ## Evaluation

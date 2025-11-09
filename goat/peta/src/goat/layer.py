@@ -122,7 +122,7 @@ class GOATLayer(BaseTunerLayer, ABC):
         
         need_svd = "pissa" in init_type or "milora" in init_type or "goat" in init_type or "svd" in init_type
         assert need_svd or "hydralora" in init_type or "mole" in init_type or "lora" in init_type, f"{init_type} not implemented"
-        rho = 10
+        rho = float(os.getenv("RHO", 10))
         eta = float(os.getenv("ETA", 1.0))
         if "goat" in init_type:
             self.scaling[adapter_name] = [math.sqrt(3*eta*self.in_features / rank_list[i]) for i in range(num_experts)]
